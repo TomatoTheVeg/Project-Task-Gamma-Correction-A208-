@@ -1,4 +1,8 @@
 # Projektaufgabe Gammakorrektur (A208)
+Teilnemhmende:
+Maksym FLoria (Potenzfunktion Berechnung Assemblerx86) https://github.com/TomatoTheVeg
+Yvhenii Karpuschtschenko (Grayscale + Gamma Correction Assemblerx86): https://github.com/SunJet72
+Maryna Redka (Rahmenprogram C++): https://github.com/Rina-redis
 
 ## 1. Problemstellung
 
