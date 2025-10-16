@@ -1,0 +1,6 @@
+*.o
+*.ppm
+*.pgm
+main
+gamma_correct
+.vscode
